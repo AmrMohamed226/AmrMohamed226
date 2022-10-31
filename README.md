@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [WeSpeax Language Learning App](https://github.com/hugolpz/WeSpeaxExos)
 
-- 🌱 I’m currently learning **About Geospatial data Statistics, Time series, and Business Intelligence**
+- 🌱 I’m currently learning about ** Geospatial data Statistics, Time series, and Business Intelligence**
 
 - 👨‍💻 All of my projects are available at [potfoliolink.com](potfoliolink.com)
 
