@@ -10,7 +10,7 @@
 - 🤔 Currently looking for a 4-6 months internship in Data Science/Machine Learning preferably in France.
 - 📫 Reach me out on: [Amr Mohamed](https://www.linkedin.com/in/amr-mohamed-b6102a175/).
 - 🌱 I’m currently learning about **Geospatial data Statistics, Time series, and Business Intelligence**
-- 👨‍💻 All of my projects are available at [potfoliolink.com](potfoliolink.com)
+<!-- 👨‍💻 All of my projects are available at [potfoliolink.com](potfoliolink.com)-->
 - 👯 I’m looking to collaborate on Data Science, Machine Learning, or Deep Learning projects
 - :weight_lifting_man: My hobbies are chess and body building
 
