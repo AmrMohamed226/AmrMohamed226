@@ -7,7 +7,7 @@
 
 - :man_student: I’m currently a (M1/ING-2) student of Data Science at [CY Tech](https://cytech.cyu.fr/), France
 - 🔭 I’m currently working on [WeSpeax Language Learning App](https://github.com/hugolpz/WeSpeaxExos)
-- 🤔 Currently looking for a 4-6 months internship in Data Science/Machine Learning preferably in France.
+- 🤔 Currently looking for a 4-5 months internship in Data Science/Machine Learning preferably in France.
 - 📫 Reach me out on LinkedIn: [Amr Mohamed](https://www.linkedin.com/in/amr-mohamed-b6102a175/) or email: amrabdelraheem9@gmail.com.
 - 🌱 I’m currently learning about **Geospatial Data Statistics, Time series, and Business Intelligence**
 - 👨‍💻 All of my projects are available on [my portfolio](https://amrmohamed226.github.io/AmrMohamed266-s_Portfolio/)
