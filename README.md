@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr</h1>
-<h3 align="center">A passionate Data Science and Machine Learning student (M1/ING-2)</h3>
+<h3 align="center">A passionate Data Science and Machine Learning student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrmohamed226&label=Profile%20views&color=0e75b6&style=flat" alt="amrmohamed226" /> </p>
 
