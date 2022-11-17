@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrmohamed226" alt="amrmohamed226" /></a> </p>
 
-- :man_student: I’m currently a 4th-year Bachelor student of Data Science at [CY Tech](https://cytech.cyu.fr/), France
+- :man_student: I’m currently a 4th-year Bachelor (ING-2) student of Data Science at [CY Tech](https://cytech.cyu.fr/), France
 - 🔭 I’m currently working on [WeSpeax Language Learning App](https://github.com/hugolpz/WeSpeaxExos)
 - 🤔 Currently looking for a 4-5 months internship in Data Science/Machine Learning preferably in France.
 - 📫 Reach me out on LinkedIn: [Amr Mohamed](https://www.linkedin.com/in/amr-mohamed-b6102a175/) or email: amrabdelraheem9@gmail.com.
