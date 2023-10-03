@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrmohamed226" alt="amrmohamed226" /></a> </p>
 
-- :man_student: I’m currently a 4th-year Bachelor (ING-3) student of Data Science and AI at [CY Tech](https://cytech.cyu.fr/), France
+- :man_student: I’m currently an ING-3 student of Data Science and AI at [CY Tech](https://cytech.cyu.fr/), France
 - 📫 Reach me out on LinkedIn: [Amr Mohamed](https://www.linkedin.com/in/amr-mohamed-b6102a175/) or email: amrabdelraheem9@gmail.com.
 - 🌱 I’m currently learning about **Geospatial Data Statistics, Time series, and Business Intelligence**
 - 👨‍💻 All of my projects are available on [my portfolio](https://amrmohamed226.github.io/AmrMohamed266-s_Portfolio/)
