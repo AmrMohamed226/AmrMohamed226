@@ -7,8 +7,8 @@
 
 - :man_student: I’m currently an ING-3 student of Data Science and AI at [CY Tech](https://cytech.cyu.fr/), France
 - 📫 Reach me out on LinkedIn: [Amr Mohamed](https://www.linkedin.com/in/amr-mohamed-b6102a175/) or email: amrabdelraheem9@gmail.com.
-- 👨‍💻 All of my projects are available on [my portfolio](https://amrmohamed226.github.io/AmrMohamed266-s_Portfolio/)
-- 👯 I’m looking to collaborate on Data Science, Machine Learning, or Deep Learning projects
+[//]: <> (- 👨‍💻 All of my projects are available on [my portfolio](https://amrmohamed226.github.io/AmrMohamed266-s_Portfolio/)
+- 👯 I’m looking to collaborate on Data Science, Machine Learning, or Deep Learning projects)
 - :weight_lifting_man: My hobbies are chess and bodybuilding
 
 <h3 align="left">Connect with me:</h3>
